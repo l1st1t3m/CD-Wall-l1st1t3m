@@ -1,2 +1,3 @@
-readme, readme my friend
-readme, readme again
+Readme, Readme my friend,  
+
+Readme, Readme again,  
